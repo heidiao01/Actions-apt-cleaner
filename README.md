@@ -27,7 +27,7 @@
 ## 🚀 一键安装
 
 ```bash
-bash <(curl -L -s https://raw.githubusercontent.com/jzckk/Actions-apt-cleaner/main/install.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/heidiao01/Actions-apt-cleaner/main/install.sh)
 ```
 
 ---

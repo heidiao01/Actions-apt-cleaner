@@ -15,8 +15,11 @@ GitHub License GitHub Stars GitHub Workflow Status
 日志管理：
 清理前后空间对比
 结构化日志 (保留14天)
+
 🚀 一键安装
 bash <(curl -L -s https://raw.githubusercontent.com/jzckk/Actions-apt-cleaner/main/install.sh)
+
+
 🛠️ 使用指南
 基础命令
 # 手动执行清理
